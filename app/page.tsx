@@ -9,7 +9,7 @@ export default function Home() {
     items-center
     gap-10
     ">
-      <h1 className="text-6xl font-bold">Welcome to IB Coding School</h1>
+      <h1 className="lg:text-6xl font-bold">Welcome to IB Coding School</h1>
 
       <h2 className="text-3xl font-bold">Here you can make your ToDo List</h2>
 
